@@ -1,5 +1,5 @@
 ---
-title: Welcome to my blog
+title: Github Hello World!
 ---
 
 # Welcome to my homepage!
